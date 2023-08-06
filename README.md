@@ -36,7 +36,7 @@ The approach is to handle all the routes in the root view of the application.
 <img alt="login" src="https://github.com/vieri2in/Grocery-App-Full-stack-front-end-part/assets/97074757/bc16ae24-0925-4ab5-ade0-9adaa0600354" width=45% height=45%> <img alt="login" src="https://github.com/vieri2in/Grocery-App-Full-stack-front-end-part/assets/97074757/44b34ce7-3672-4e5b-924a-cad7fdd02f44" width=55% height=55%> 
 
 ## Container/Presentation pattern
-This pattern makes presentation views free of any dependencies by passing the data from the parent view to the child view.
+This pattern makes presentation views free of any dependencies by passing the data from the parent views to the child view.
 
 **Child view:**
 
@@ -48,4 +48,4 @@ This pattern makes presentation views free of any dependencies by passing the da
 
 
 ## Acknowledgment:
-The code and pic originate from Mohammad Azam's Udemy course: Mastering Full Stack iOS Development Using SwiftUI and Vapor. This course is a good example of the MV pattern advocated by Azam in his articles and courses. I spent two weeks following this amazing course bit by bit and was impressed by the way he designs and organizes code. His teaching answers many of my previous questions when applying the MVVM pattern to my projects. As an IOS apprentice, I at times am struggling with how to get things done, not to mention writing sleek, clean code. But contemplating the code written by brilliant programmers like Azam can help me write elegant, skilled code in the future.
+The code and pic originate from Mohammad Azam's Udemy course: Mastering Full Stack iOS Development Using SwiftUI and Vapor. This course is a good example of the MV pattern advocated by Azam in his articles and courses. I spent two weeks following this amazing course bit by bit and was impressed by the way he designs and organizes code. His teaching answers many of my previous questions when applying the MVVM pattern to my projects. As an IOS apprentice, I at times struggle with how to get things done, not to mention writing sleek, clean code. But contemplating the code written by brilliant programmers like Azam can help me write elegant, skilled code in the future.
