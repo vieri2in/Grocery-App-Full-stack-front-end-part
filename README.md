@@ -1,5 +1,7 @@
 # Grocery-App-Full-stack-front-end-part
-**This app is the user interface by SwiftUI of the Grocery-App-Full-stack-project. It has a dependency on the GroceryAppSharedDTO package. Besides its support for login and registration, this app allows users to display, create, update, and delete data, which is fetched and stored remotely via a web server. Moreover, the design of the app features the MV patten that eliminates the view models of MVVM pattern while introducing the aggregate root model that allows access to the entities/models under a certain bounded context.**
+**This app is the user interface by SwiftUI of the Grocery-App-Full-stack-project. It has a dependency on the GroceryAppSharedDTO package.**
+
+Besides its support for login and registration, this app allows users to display, create, update, and delete data, which is fetched and stored remotely via a web server. Moreover, the design of the app features the MV patten that eliminates the view models of MVVM pattern while introducing the aggregate root model that allows access to the entities/models under a certain bounded context.
 
 ## Login and registration
 <img alt="login" src="https://github.com/vieri2in/Grocery-App-Full-stack-front-end-part/assets/97074757/b93f2ec1-f9bd-4e5b-825a-264e7e83b823" width=25% height=25%> 
